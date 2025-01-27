@@ -13,7 +13,11 @@ cd <project-directory>
 
 
 ### 2. Environment Creation
+```bash
 pip install virtualenv
+```
 
-
-### pip install -r requirements.txt
+### 3. Install the requirements
+```bash
+pip install -r requirements.txt
+```
