@@ -1,7 +1,4 @@
-# Project Name
-
-## Description
-A brief description of your project goes here.
+# Assignment
 
 ## Setup Instructions
 
@@ -12,6 +9,11 @@ Clone the repository to your local machine using the following command:
 ```bash
 git clone <repository-url>
 cd <project-directory>
+```
+
 
 ### 2. Environment Creation
+pip install virtualenv
 
+
+### pip install -r requirements.txt
